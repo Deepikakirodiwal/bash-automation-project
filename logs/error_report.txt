@@ -1,0 +1,2 @@
+2026-08-01 10:05:23 ERROR Database connection failed
+2026-08-01 10:15:12 ERROR Timeout waiting for response
